@@ -1,3 +1,13 @@
+//Davi Baechtold Campos
+//Trabalho 5 - Árvore Binária 
+
+/*
+Sua  tarefa  será  construir  uma  árvore  binária,  lembrando  que  árvore  binária  são aquelas  que possuem  no  máximo  dois  filhos  em  cada  vértice.  Esta  árvore  será  gerada  de  forma  aleatória  e  deve possuir  um  número  de  vértices  aleatoriamente  selecionado  entre  10  e  26  vértices.  Para  criar  esta árvore você irá criar um array capaz de armazenar uma quantidade de itens equivalente ao número de vértices da árvore que será gerada e preencher estes vértices com valores aleatórios entre 1 e 1000. 
+Este array será usado para montar a árvore a árvore binária.  
+*/
+
+
+
 #include <iostream>
 #include <random>
 
